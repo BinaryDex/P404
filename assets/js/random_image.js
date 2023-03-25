@@ -9,7 +9,6 @@ var imagesArray = [
     "megumin.png", 
     "ok.png", 
     "phone.jpg", 
-    "swaggy.jpg",
     "dexnew.jpeg",
     "dexneww.gif"
 ];
