@@ -3,7 +3,8 @@ window.onload = displayImage;
 var imagesArray = [
     "another.jpg", 
     "anothercoffee.png", 
-    "gaming.gif", 
+    "Astolfo1.jpg",
+    "Astolfo2.jpg",
     "gun5.jpg", 
     "gun6.jpg", 
     "megumin.png", 
